@@ -1,5 +1,6 @@
 # Marketing Automation Report Pipeline
 
+Replaced manual monthly data retrieval across 3 brands, eliminating  hours of manual work per month and ensuring consistent delivery by the 10th of each month.
 Automated monthly report pipeline that pulls campaign journey metrics from a marketing automation platform API, writes results to Google Sheets, and sends email notifications — replacing manual monthly data retrieval.
 
 ## Overview
