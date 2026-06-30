@@ -16,7 +16,7 @@ import gspread
 from google.oauth2.service_account import Credentials
 
 # ============================================================
-# Config (all sensitive values loaded from environment variables)
+# Config 
 # ============================================================
 
 API_KEY            = os.environ.get("BRAND_C_API_KEY")
